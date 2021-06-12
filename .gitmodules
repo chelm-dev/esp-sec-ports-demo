@@ -1,0 +1,9 @@
+[submodule "components/tinyssh/tinyssh"]
+	path = components/tinyssh/tinyssh
+	url = https://github.com/janmojzis/tinyssh.git
+[submodule "components/dropbear/dropbear"]
+	path = components/dropbear/dropbear
+	url = https://github.com/mkj/dropbear.git
+[submodule "components/radius/freeradius-client"]
+	path = components/radius/freeradius-client
+	url = https://github.com/FreeRADIUS/freeradius-client.git
